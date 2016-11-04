@@ -1,5 +1,5 @@
 {
-  "name": "error-stack-parser",
+  "name": "error-stack-parser-papandreou",
   "description": "Extract meaning from JS Errors",
   "maintainers": [
     "Eric Wendelin <me@eriwen.com> (https://www.eriwen.com)",
